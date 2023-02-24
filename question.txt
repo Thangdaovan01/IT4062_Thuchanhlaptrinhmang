@@ -1,0 +1,34 @@
+1|EASY|Câu hỏi 1|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|A|B|C
+2|NORMAL|Câu hỏi 2|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|B|A|C
+3|HARD|Câu hỏi 3|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|C|B|D
+4|EASY|Câu hỏi 4|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|D|A|C
+5|EASY|Câu hỏi 5|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|A|B|C
+6|EASY|Câu hỏi 6|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|B|D|C
+7|NORMAL|Câu hỏi 7|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|C|B|A
+8|HARD|Câu hỏi 8|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|D|B|C
+9|EASY|Câu hỏi 9|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|A|B|C
+10|NORMAL|Câu hỏi 10|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|B|A|C
+11|HARD|Câu hỏi 11|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|C|B|D
+12|EASY|Câu hỏi 12|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|D|B|C
+13|EASY|Câu hỏi 13|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|A|B|C
+14|NORMAL|Câu hỏi 14|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|B|A|C
+15|HARD|Câu hỏi 15|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|C|B|D
+16|EASY|Câu hỏi 16|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|D|A|C
+17|EASY|Câu hỏi 17|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|A|B|C
+18|EASY|Câu hỏi 18|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|B|D|C
+19|NORMAL|Câu hỏi 19|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|C|B|A
+20|HARD|Câu hỏi 20|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|D|B|C
+21|EASY|Câu hỏi 21|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|A|B|C
+22|NORMAL|Câu hỏi 22|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|B|A|C
+23|HARD|Câu hỏi 23|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|C|B|D
+24|EASY|Câu hỏi 24|Đáp án 1|Đáp án 2|Đáp án 3|Đáp án 4|D|B|C
+1|HARD|Cau hoi 123|Dap an 1|Dap an 2|Dap an 3|Dap an 4|A|B|C
+1|EASY|CAu hoi 124|DA1|DA2|DA3|DA4|A|B|C
+1|EASY|A|B|C|D|E|A|B|C
+1|EASY|A|B|C|D|E|A|B|C
+1|EASY|A|B|C|D|E|A|B|C
+1|EASY|A|B|C|D|E|A|B|C
+1|EASY|A|B|C|D|E|A|B|C
+1|EASY|A|B|C|D|E|A|B|C
+1|EASY|A|B|C|D|E|A|B|C
+1|EASY|A|B|C|D|E|A|B|C
